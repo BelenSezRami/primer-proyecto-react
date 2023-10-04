@@ -1,0 +1,36 @@
+.photography-image {
+    height: 100%;
+}
+
+.photography-container {
+    height: 400px;
+    width: 1150px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    box-shadow: 0 3px 13px 1px rgba(54, 54, 54, 0.373);
+}
+
+.photography-text-container {
+    text-align: center;
+    padding: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.5rem;
+}
+
+.photography-name {
+    font-size: 2.5rem;
+}
+
+.photography-camera {
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.photography-text {
+    text-align: justify;
+}
